@@ -3,11 +3,11 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **PHP | MySQLi | Laravel**
 
 - 👨‍💻 [https://remarkable-faun-95ba59.netlify.app/](https://remarkable-faun-95ba59.netlify.app/)
 
-- 📫 Reach me at **sohamom2730@gmail.com**
+- 📫 Reach me at **sohamom7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
