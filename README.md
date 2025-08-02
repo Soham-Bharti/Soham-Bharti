@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer and analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **PHP | MySQLi | Laravel**
+- 🌱 Working professional @HCLTech **Java Full Stack**
 
 - 👨‍💻 [https://remarkable-faun-95ba59.netlify.app/](https://remarkable-faun-95ba59.netlify.app/)
 
-- 📫 Reach me at **sohamom7@gmail.com**
+- 📫 Reach me at **sohambharti27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
